@@ -1,0 +1,1 @@
+wusa.exe /uninstall /KB:2592687
